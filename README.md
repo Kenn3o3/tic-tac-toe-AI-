@@ -1,3 +1,3 @@
 # tic-tac-toe-AI-
 
-a file for group project
+for group project
